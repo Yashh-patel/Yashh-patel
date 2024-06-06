@@ -10,3 +10,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=200583043&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=200583043.200583043)
+
